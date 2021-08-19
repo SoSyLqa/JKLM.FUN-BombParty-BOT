@@ -1,5 +1,5 @@
 # JKLM.FUN-BombParty-BOT 💣💣💣
-simple to use bot for BombParty on JKLM.FUN
+Almost legit and simple to use bot for BombParty on JKLM.FUN
 
 # HOW TO USE
 
