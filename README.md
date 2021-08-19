@@ -1,6 +1,18 @@
 # LEGIT JKLM.FUN-BombParty-BOT 💣💣💣
 The most legit and simple to use bot for BombParty on JKLM.FUN
 
+# Installing python
+
+Python - https://www.python.org/downloads/
+
+When installing, click the checkbox "ADD PYTHON TO PATH"
+
+# Installing requirements
+
+YOU MUST HAVE INSTALLED PYTHON ON YOUR PC ⚠️⚠️⚠️
+
+open cmd.exe (console command line) and enter "pip install -r requirements.txt"
+
 # HOW TO USE
 
 Download it
@@ -15,7 +27,7 @@ When it's your turn just press F8 and it will type word instead of you
 
 1.Basically this script was made for FULL HD monitors and it will not work until you change mouse position coordinates in script
 
-To change it use source AHK script XY.ahk or compiled version XY.exe (Navigate your mouse at the bomb with chars and press F6 to parse new mouse position then)
+To change coordinates use source AHK script XY.ahk or compiled version XY.exe (Navigate your mouse at the bomb with chars and press F6 to parse new mouse position then)
 
 You must change Coordinates of Bomb position and word enter field
 
@@ -29,3 +41,12 @@ Replace coordinates here
 
 ![image](https://user-images.githubusercontent.com/63086905/130131676-9f189034-e634-4390-919b-39d4c17af0ca.png)
 
+2.Make sure that library.txt and PY script in the same folder
+
+3. Make sure you installed requirements
+
+# CREDITS
+
+ahk script and some code I took from this guy
+
+https://github.com/DO-Ui
