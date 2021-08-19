@@ -52,8 +52,8 @@ Replace coordinates here
 
 # CREDITS
 
+https://github.com/DO-Ui
+
 ahk script and some code I took from this guy
 
 Thanks!
-
-https://github.com/DO-Ui
