@@ -13,6 +13,8 @@ YOU MUST HAVE INSTALLED PYTHON ON YOUR PC ⚠️⚠️⚠️
 
 open cmd.exe (console command line) and enter "pip install -r requirements.txt"
 
+Or just use "install.cmd"
+
 # HOW TO USE
 
 Download it
