@@ -1,6 +1,9 @@
 # LEGIT JKLM.FUN-BombParty-BOT 💣💣💣
 The most legit and simple to use bot for BombParty on JKLM.FUN
 
+![E5b5BUhJhE](https://user-images.githubusercontent.com/63086905/130137117-330d1be5-aef4-4cf2-b47b-e5fcae235715.gif)
+
+
 # Installing python
 
 Python - https://www.python.org/downloads/
