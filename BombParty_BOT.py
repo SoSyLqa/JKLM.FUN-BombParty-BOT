@@ -11,7 +11,7 @@ posOfChars = 835, 575 # POSITION OF FIELD WITH CHARS IN CENTER
 
 posOfEnter = 841, 1023 # POSITION OF ENTER FIELD
 
-timer = random.uniform(0.1, 0.18) # INTERVAL OF ENTERING CHARS
+timer = random.uniform(0.1, 0.18) # RANDOM INTERVAL OF ENTERING CHARS
 
 def split(word):
 
